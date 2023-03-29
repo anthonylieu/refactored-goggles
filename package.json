@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "inquirer": "^8.2.0",
+    "license": "^1.0.3"
+  },
+  "name": "refactored-goggles",
+  "description": "[How to create a Professional README](./readme-guide.md)",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anthonylieu/refactored-goggles"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anthonylieu/refactored-goggles"
+  },
+  "homepage": "https://github.com/anthonylieu/refactored-goggles"
+}
